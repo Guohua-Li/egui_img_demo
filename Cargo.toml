@@ -4,8 +4,8 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-eframe = "0.28.1"
-egui = "0.28.1"
-egui_extras = { version = "0.28.1", features = ["all_loaders", "default"] }
+eframe = "0.29.1"
+egui = "0.29.1"
+egui_extras = { version = "0.29.1", features = ["all_loaders", "default"] }
 env_logger = "0.11.5"
-image = "0.25.2"
+image = "0.25.3"
