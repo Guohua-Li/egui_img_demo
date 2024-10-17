@@ -46,7 +46,7 @@ impl eframe::App for MyApp {
                         Image::new(egui::include_image!("../assets/ferris200.jpg")).fit_to_original_size(1.0)
                     );
                     ui.add(
-                        Image::new(egui::include_image!("../assets/me.png")).fit_to_original_size(0.5)
+                        Image::new(egui::include_image!("../assets/ferris200.png")).fit_to_original_size(0.5)
                     );
                     ui.add(
                         Image::new(egui::include_image!("../assets/frog.png")).fit_to_original_size(0.25)
